@@ -14,7 +14,7 @@ Project Reference Link: https://www.youtube.com/watch?v=I6ypD7qv3Z8
 - what is 'yarn'?
 	- open source package manager that helps devs install update and configure and remove package dependencies in JS projects
 
-# Installing yarn was a bit of a hassle, so I got it to work by doing these commands:
+# Installing yarn was a bit of a hassle, so I got it to work by doing these commands: (My machine is Linux (Ubuntu))
 ```
 sudo apt remove yarn
 sudo apt install curl
