@@ -2,7 +2,12 @@
 ## Technologies used:
     - TypeScript
     - GraphQL
-    - MikroORM
+    - MikroORM/TypeORM
+    - URQL/Apollo
+    - Node.js
+    - Redis
+    - Next.js
+    - TypeGraphQL
     - and many more!
     - I will be also formatting my notes on what I learned
     - from this project into this file
